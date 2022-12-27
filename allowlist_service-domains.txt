@@ -1,0 +1,7 @@
+# Service Domains
+
+# Unifi / Ubiquiti
+@@||ui.com^
+
+# Synology
+@@||synology.com^
