@@ -16,4 +16,3 @@
 # Personal Domains
 @@||svhome.xyz^
 @@||svhp.xyz^
-
