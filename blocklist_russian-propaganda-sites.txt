@@ -1,2 +1,3 @@
 # News Sites
 ||news.ru^
+||1tv.ru^
