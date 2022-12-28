@@ -5,3 +5,8 @@
 
 # Synology
 @@||synology.com^
+
+# Other
+@@||budgetbakers.com^
+@@||headphonesty.com^
+@@||hotukdeals.com^
