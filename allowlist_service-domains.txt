@@ -13,3 +13,4 @@
 
 # CY Government Sites
 @@||taxisnet.mof.gov.cy^
+@@||cyta.com.cy^
