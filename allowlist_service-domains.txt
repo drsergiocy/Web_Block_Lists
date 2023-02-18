@@ -10,6 +10,7 @@
 @@||budgetbakers.com^
 @@||headphonesty.com^
 @@||hotukdeals.com^
+@@||mydealz.de^
 
 # CY Government Sites
 @@||taxisnet.mof.gov.cy^
