@@ -59,7 +59,7 @@ kommersant.ru
 interfax.ru
 e1.ru
 inosmi.ru
-ngs.ru^
+ngs.ru
 svoboda.org
 politikus.ru
 svpressa.ru
