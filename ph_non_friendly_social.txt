@@ -1,9 +1,9 @@
 # Non recommended websites
-whisper.sh
-tinder.com
-ask.fm
-omegle.com
-chatroulette.to
-4chan.org
-kik.com
-tiktok.com
+||whisper.sh^
+||tinder.co^
+||ask.fm^
+||omegle.com^
+||chatroulette.to^
+||4chan.org^
+||kik.com^
+||tiktok.com^
